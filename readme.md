@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manon</h1>
+<h1 align="center">Hi 👋, I'm Naman</h1>
 <!-- ![Hi, I'm Manon 👋 I'm a 🚀 MERN Stack developer 🚀 I ❤️ JavaScript ❤️] -->
 <h3 align="center">A zealous software developer from India</h3>
 <p align="center">
@@ -18,8 +18,6 @@
 - 💬 Ask me about **React & Node**
 
 - 🧠 I love solving **DSA Problems**
-
-- 📫 How to reach me **mananvarma5401@gmail.com**
 
 - ⚡ Fun fact **I am a Gamer & a Calisthenics Athlete....**
 
@@ -55,13 +53,13 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <br>
-<p align="center"><img alt="Manon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ManonVarma&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<p align="center"><img alt="Namans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ManonVarma&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br><br>
 <img alt="Manon's Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ManonVarma&theme=dark" /></p>
 <br><br>
-<p align="center"><img alt="Manon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ManonVarma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+<p align="center"><img alt="Namans's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ManonVarma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 <br><br>
-<img alt="Manon's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManonVarma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+<img alt="Namans's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManonVarma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
 <br><br>	
 
 <div align="center">
